@@ -1,2 +1,6 @@
 # strona-para-jakub
-Its workspace for school projects
+
+## Autor
+Imię: Jakub
+Klasa: Kaczmarczyk
+Partner (login): https://github.com/whyallusernamesareunavaible
