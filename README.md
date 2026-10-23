@@ -1,4 +1,5 @@
 # strona-para-jakub
+Its workspace for school projects (kys)
 
 ## Autor
 Imię: Jakub
