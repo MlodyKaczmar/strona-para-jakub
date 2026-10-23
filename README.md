@@ -1,2 +1,2 @@
 # strona-para-jakub
-Its workspace for school projects
+Its workspace for school projects (kys)
